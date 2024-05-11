@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/*
+Theme Name: Template Child Thema
+Template: temp-wp-thema
+Author: Shunya Sugawara
+Description: Template Original Child Thema
+Author URI: https://github.com/code-polaris044
+Version: 1.0
+Tags: Template Child
+*/
+
+/* 親テーマ */
+@import "../temp-wp-thema/style.css"
